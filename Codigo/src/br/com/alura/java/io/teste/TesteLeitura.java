@@ -1,3 +1,5 @@
+package br.com.alura.java.io.teste;
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
