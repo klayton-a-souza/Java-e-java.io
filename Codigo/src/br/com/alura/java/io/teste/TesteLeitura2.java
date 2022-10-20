@@ -8,7 +8,7 @@ public class TesteLeitura2 {
 
 	public static void main(String[] args) throws Exception {
 
-		Scanner sc = new Scanner(new File("contas.csv"));
+		Scanner sc = new Scanner(new File("contas.csv"));	
 
 		while (sc.hasNextLine()) {
 			String linha = sc.nextLine();
